@@ -1,0 +1,5 @@
+
+# Uncomment for multilingual sites, and customize the following config.
+ [zh]
+   languageCode = "zh"
+   languageName = "简体中文"
