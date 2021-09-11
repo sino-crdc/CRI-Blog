@@ -17,7 +17,7 @@ weight = 1
 [[social]]
   icon = "google-drive"
   iconPack = "fab"
-  url = "https://pan.zzzsy.top"
+  url = "https://www.aliyundrive.com/s/iiq4FMD6Hgj"
 [widget]
   handler = "about"
 
