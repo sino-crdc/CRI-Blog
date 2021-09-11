@@ -31,4 +31,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./public
           full_commit_message: ${{ github.event.head_commit.message }}
-          keep_files: true
+          keep_files: false
