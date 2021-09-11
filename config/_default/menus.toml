@@ -1,14 +1,19 @@
 [[main]]
-  name = "About"
+  name = "关于"
   url = "#about"
   weight = 2
 
 [[main]]
-  name = "Posts"
+  name = "文章"
   url = "/posts/"
   weight = 1
 
 [[main]]
-  name = "Other"
+  name = "其他"
   url = "/others/"
+  weight = 4
+
+[[main]]
+  name = "项目"
+  url = "/projects/"
   weight = 3

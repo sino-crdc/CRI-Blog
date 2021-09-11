@@ -1,9 +1,9 @@
 +++
 # Name
-title = "Hugo Authors"
-role = "Example Role"
+title = "ZenMoore"
+role = ""
 bio = "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos."
-shortContent = "Example Short Content"
+avatar = "avatar/example.png"
 
 [organization]
   name = "Example Organization"
